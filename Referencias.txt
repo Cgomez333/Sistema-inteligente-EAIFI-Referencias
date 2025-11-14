@@ -1,0 +1,33 @@
+REFERENCIAS ORGANIZADAS
+
+1. Inteligencia artificial y nutrición personalizada
+
+Tsolakidis, D., Kalogiannis, S., & Tzimas, G. (2024). Artificial intelligence and machine learning technologies for personalized nutrition: A review. Informatics, 11(3), 62. https://doi.org/10.3390/informatics11030062
+Balali, A., Mardini, M. T., Thuerey, N., Kouroupetroglou, C., Goumopoulos, C., & Fotiadis, D. I. (2021). Systematic review of nutritional recommendation systems. Applied Sciences, 11(24), 12069. https://doi.org/10.3390/app112412069
+Zhou, R., Wang, J., Li, Y, Chen, A., & Wong, M. (2025). Personalized nutrition recommendation system based on artificial intelligence and federated learning. European Journal of Public Health and Environmental Research, 1(1), 1–6.
+Kalpakoglou, K., Papastratis, I., Athanasiadis, T., et al. (2025). An AI-based nutrition recommendation system providing Mediterranean weekly meal plans. Frontiers in Nutrition, 12, 1546107.
+Papastratis, I., Kalpakoglou, K., Athanasiadis, T., et al. (2024). AI nutrition recommendation using a deep generative model. Scientific Reports, 14, 14927.
+Nag, N., Kulkarni, A., & Pandit, A. (2017). Live personalized nutrition recommendation engine. JMIR Medical Informatics, 5(3), e40. https://doi.org/10.2196/medinform.6800
+De Croon, R., Gadiraju, U., Bozzon, A., et al. (2025). An explanation interface for healthy food recommendations: Design and evaluation. JMIR mHealth and uHealth, 13, e51271.
+Leipold, N., Pielot, M., Buschek, D., & Schmidt, A. (2018). Nutrilize: A personalized nutrition recommender system. Proceedings of the 2nd International Workshop on Health Recommender Systems, 30–37.
+Agrawal, K., Goktas, F., Kumar, S., & Leung, K. (2025). Artificial intelligence in personalized nutrition and food manufacturing. npj Science of Food, 9, 9.
+
+2. Nutrición, microbiota e impacto en enfermedades
+
+Celis-Morales, C., Livingstone, K. M., Marsaux, C. F. M., et al. (2017). Effect of personalized nutrition on health-related behaviour change: Evidence from the Food4Me European randomized controlled trial. International Journal of Epidemiology, 46(2), 578–588.
+Livingstone, K. M., Celis-Morales, C., Navas-Carretero, S., et al. (2020). Characteristics of individuals who benefit most from personalized nutrition: Findings from the Food4Me study. British Journal of Nutrition, 123(9), 1–11.
+Vázquez-Frías, R. (2025). Diet is a key factor in the pathogenesis of metabolic dysfunction-associated steatotic liver disease in the pediatric population. Revista de Gastroenterología de México, 90(3), 347–348. https://doi.org/10.1016/j.rgmx.2025.06.005
+Santos, V. B. F., Silva, A. C. O., Pereira, R. M., et al. (2025). Metabolic dysfunction-associated steatotic liver disease and dietary intake characteristics in children and adolescents: A cross-sectional study. Revista de Gastroenterología de México (English Edition), 90(3), 339–346.
+Roco-Videla, Á., Aguilera-Eguía, R., Olguín-Barraza, M., & Flores, S. V. (2025). El impacto de la alimentación en la disbiosis intestinal asociada a la enfermedad de Parkinson. Nutrición Hospitalaria, 42(4), 849–850.
+García-Milla, P., Nieto, G., Maulén, M., Tapia, C., & Díaz-Vásquez, W. (2025). The effect of supplementation with prebiotic fiber on the gut microbiota of older people with Parkinson’s disease: A pilot study. Nutrición Hospitalaria, 42(2), 232–242.
+Roco-Videla, Á., Aguilera-Eguía, R., Olguín-Barraza, M., & Flores S. V. (2025). La importancia del desarrollo de programas de alimentación y suplementación de vitamina D complementado con micronutrientes en personas con VIH/SIDA. Nutrición Hospitalaria, 42(4), 836–837.
+Nunes Mendes de Brito, A., Fonseca Oliveira, I. K., Teixeira, S. C. C. A., et al. (2024). 25(OH)D concentrations are not associated with adiposity indicators, but with immunodeficiency stage in people with HIV/AIDS. Nutrición Hospitalaria, 42(1), 89–96.
+Sampson, T. R., Debelius, J. W., Thron, T., et al. (2016). Gut microbiota regulate motor deficits and neuroinflammation in a model of Parkinson’s disease. Cell, 167(6), 1469–1480.e12.
+Nishiwaki, H., Ito, M., Ishida, T., et al. (2020). Meta-analysis of gut dysbiosis in Parkinson’s disease. Movement Disorders, 35(9), 1626–1635.
+Fang, X., Li, F.-J., & Hong, D.-J. (2021). Potential role of Akkermansia muciniphila in Parkinson’s disease and other neurological or autoimmune diseases. Current Medical Science, 41(6), 1172–1177.
+
+3. Organismos internacionales y datos globales
+
+World Health Organization. (2024). Obesity and overweight: Fact sheet. WHO.
+International Diabetes Federation. (2021). IDF Diabetes Atlas (10th ed.). Brussels, Belgium: IDF.
+World Health Organization. (2023). Noncommunicable diseases: Key facts. WHO.
